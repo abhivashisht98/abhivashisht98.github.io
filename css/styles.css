@@ -70,3 +70,7 @@ p{
   clear: both;
   margin-top: -10px;
 }
+.navbar-header {
+  clear: both;
+  margin-top: -20px;
+}
